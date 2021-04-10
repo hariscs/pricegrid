@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/hariscs/pricegrid)
+- Live Site URL: [Netlify](https://your-live-site-url.com)
 
 ## My process
 
@@ -54,5 +54,5 @@ im sturggling a little with the margins and css grid system, i'll work on these 
 ## Author
 
 - Website - [Haris Shah](https://github.com/hariscs)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@hariscs](https://www.frontendmentor.io/profile/hariscs)
 - Twitter - [@\_haris_shah](https://twitter.com/_haris_shah)
